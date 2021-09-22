@@ -9,9 +9,9 @@
 Neste projeto são coletados e analisados os dados sobre anúncios do Airbnb na cidade de Dublin. São englobadas as seguintes etapas:
 
 * Coleta dos dados do [Inside Airbnb](http://data.insideairbnb.com/ireland/leinster/dublin/2021-07-07/visualisations/listings.csv)
-* Análise explotatória dos dados
+* Análise exploratória dos dados
 * Identificação e tratamento de outliers
-* Análise e insights sobre os dados (qual bairro mais caro? Quais os tipos de acomodação? Qual o preço médio?...)
+* Análise e insights sobre os dados (Qual bairro mais caro? Quais os tipos de acomodação? Qual o preço médio?...)
 
 [Link para o projeto completo](https://github.com/mariusss21/airbnb_dublin/blob/main/Analisando_os_Dados_do_Airbnb_Dublin.ipynb)
 
